@@ -1,5 +1,4 @@
 ### Hi there 👋
-### 🌱 I’m currently learning html, css, js, wpf
 
 <!--
 **IskraKate/iskrakate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
